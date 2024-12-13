@@ -65,7 +65,7 @@ int main() {
 	//}
 	//read.close();
 
-	Student Rita("Zachary", "Egorov", 17);
-	Rita.Print();
-	Rita.ReadFile();
+	Student Zack("Zachary", "Egorov", 17);
+	Zack.Print();
+	Zack.ReadFile();
 }
